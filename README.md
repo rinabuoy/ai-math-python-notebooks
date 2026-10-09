@@ -103,3 +103,6 @@ Python 3.9 or newer.
 * Notebooks are saved **with their outputs**, so they can be read on GitHub without running.
 * Three notebooks (Lab C, Lab H and lesson 52) can use the public course data files if you place them in a `data/` folder; otherwise they automatically use a small synthetic stand-in, so everything still runs.
 * Try each exercise before opening the *Solutions* cells at the bottom.
+
+## License
+MIT — see [LICENSE](LICENSE). Free to use, copy, modify and share, including for teaching and commercial purposes, with attribution.
